@@ -33,7 +33,7 @@ The objective of this project was to simulate a corporate enterprise network by 
 *   Provisioned Windows 11 virtual machines and successfully joined them to the newly established domain.
 
 ### 2. Active Directory Administration
-*   Designed a scalable Organizational Unit (OU) hierarchy to separate Users, Workstations, Servers, and Administrative accounts.
+*   Created Organizational Unit (OU) hierarchy to separate Users, groups, and Administrative accounts.
 *   Created **Template User Accounts** to streamline the onboarding process and ensure consistent permissions and group memberships for new hires.
 
 ### 3. Group Policy Implementation
@@ -43,7 +43,7 @@ The objective of this project was to simulate a corporate enterprise network by 
 * Mapped shared network drives
 
 ### 4. Patch Management & Automation (Action1)
-*   Deployed the Action1 agent to all domain-joined Windows 11 endpoints.
+*   Deployed the Action1 agent to all domain-joined Windows 11 endpoints and Windows server.
 *   Configured automated patch schedules within the Action1 console to push critical Windows updates and third-party software updates.
 *   Secured the AD environment by verifying patch compliance and mitigating simulated software vulnerabilities remotely.
 
