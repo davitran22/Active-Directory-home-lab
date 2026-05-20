@@ -23,7 +23,7 @@ The objective of this project was to simulate a corporate enterprise network by 
 *   **Client Endpoints (`AD1`):** Windows 11 machines joined to the domain.
 *   **Patch Management:** Action1 cloud console communicating with locally installed agents on domain machines.
 
-*(Note: Insert a screenshot here of your VirtualBox layout, your ADUC console, or your Action1 dashboard showing your connected endpoints.)*
+<img width="754" height="530" alt="ADUC" src="https://github.com/user-attachments/assets/01473e08-0826-42d9-ae00-4b8b4344fcee" />
 
 ## Key Configurations & Deployment Steps
 
