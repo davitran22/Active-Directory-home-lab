@@ -44,7 +44,7 @@ The objective of this project was to simulate a corporate enterprise network by 
 
 ### 4. Patch Management & Automation (Action1)
 *   Deployed the Action1 agent to all domain-joined Windows 11 endpoints and Windows server.
-*   Configured automated patch schedules within the Action1 console to push critical Windows updates and third-party software updates.
+*   Used Action1 console to push critical Windows updates and third-party software updates.
 *   Secured the AD environment by verifying patch compliance and mitigating simulated software vulnerabilities remotely.
 <img width="1920" height="963" alt="action1_pic1" src="https://github.com/user-attachments/assets/aab35941-22f8-42e6-83f0-b38e9f3fdad5" />
 
